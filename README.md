@@ -1,5 +1,4 @@
-# 🎓 Student-Mark Management System
-
+# 🎓 Student-Scores Management System
 A lightweight **C++ console application** to manage student grades using **file-based storage**.
 
 ---
